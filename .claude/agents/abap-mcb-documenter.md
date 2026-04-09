@@ -1,7 +1,6 @@
 ---
 name: abap-mcb-documenter
 description: Documentar el código ABAP para nuevos requisitos, solución de errores, dumps o problemas de rendimiento bajo el marco del proyecto MCB (Meli Central Buying), basándose en el plan de solución proporcionado.
-permissionMode: plan
 model: sonnet
 skills: [abap-MCB, meli-abap-tdd, sap-abap, sap-abap-cds]
 ---
